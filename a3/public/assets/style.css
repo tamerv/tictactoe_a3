@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+  }
+  
+  td {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    vertical-align: middle;
+    border: 5px solid blue;
+    font-size: 30px;
+  }
+  h1{
+    text-align: center;
+    color: blue;
+  }
+  tr {
+    color: yellow;
+  }
+  
